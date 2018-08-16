@@ -1,5 +1,3 @@
-# weatherapp-mysql
-Exercice mySQL
 # Exercice PHP / MySQL
 
 ## Objectif
