@@ -1,0 +1,2 @@
+# weatherapp-mysql
+Exercice mySQL
